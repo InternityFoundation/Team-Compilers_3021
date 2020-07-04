@@ -1,0 +1,2 @@
+This is a PHP file, here we user MySQL databsae.
+We are connecting php with MySQL using XAMP server
